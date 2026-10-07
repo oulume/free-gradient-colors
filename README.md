@@ -2,7 +2,7 @@
 
 # 免费的180个渐变颜色
 
-http://color.oulu.me/
+[https://color.qufan.cc/](https://color.qufan.cc/)
 
 -一个集合180种免费的线性渐变网站，可在任何网站使用
 
